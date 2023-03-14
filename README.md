@@ -71,7 +71,3 @@ Solana Wallet Adapter
 
 - `/aftercardorder` After you make a purchase, you can check your purchase history with the stampcard applied.
 
-
-### Wallet Adapter
-
-아자아자 화이팅
