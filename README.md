@@ -8,7 +8,7 @@ A Payment Service for the Consumer's **Reasonable**, **Effective**, **Valuable**
 
 <img src="https://images.unsplash.com/photo-1562218636-798e433e94a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=826&q=80" width="187" height="280"/>
 
-***Do you want some?:smile:***
+### ***Do you want some?:smile: Then PICKER'S PAY * PICK A CHERRY right now!***
 
 ## Solana Grizzlython
 
