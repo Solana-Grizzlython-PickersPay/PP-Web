@@ -37,7 +37,7 @@ React ...
 
 ### Components
 
-- `/` homepage, You can connet to your wallet
+- `/` homepage, You can connet to your wallet.
 
 - `/consumer` You can check your wallet balance, coupons and stamp cards you own here.
 
