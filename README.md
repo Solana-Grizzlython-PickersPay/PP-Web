@@ -34,9 +34,13 @@ For more information -> https://solana.com/grizzlython
 ### Overview
 
 React TS MUI, Responsive UI
+
 NextJS
+
 eslint, prettier
+
 Solana CLI
+
 Solana Wallet Adapter
 
 ### Components
