@@ -37,29 +37,29 @@ React ...
 
 ### Components
 
-(1) `/`: homepage, You can connet to your wallet
+(1) `/` homepage, You can connet to your wallet
 
-(2) `/consumer`: You can check your wallet balance, coupons and stamp cards you own here.
+(2) `/consumer` You can check your wallet balance, coupons and stamp cards you own here.
 
-(3) `/pay`: This page helps you easily pay with cryptocurrency.
+(3) `/pay` This page helps you easily pay with cryptocurrency.
 
-(4) `/transfer`: You can transfer money to others or send coupons and stamp cards that you own.
+(4) `/transfer` You can transfer money to others or send coupons and stamp cards that you own.
 
-(5) `/coupon`: You can check the coupons you own.
+(5) `/coupon` You can check the coupons you own.
 
-(6) `/stampcard`: You can check the stamp cards you own.
+(6) `/stampcard` You can check the stamp cards you own.
 
-(7) `/receipt`: You can check your whole receipts NFT.
+(7) `/receipt` You can check your whole receipts NFT.
 
-(8) `/afterpay`: Coupons or stamp cards can be applied while purchasing products.
+(8) `/afterpay` Coupons or stamp cards can be applied while purchasing products.
 
-(9) `/couponorder`: You can use your coupon here.
+(9) `/couponorder` You can use your coupon here.
 
-(10) `/aftercouponorder`: After you make a purchase, you can check your purchase history with the coupon applied.
+(10) `/aftercouponorder` After you make a purchase, you can check your purchase history with the coupon applied.
 
-(11) `/cardorder`: You can use your stampcard here.
+(11) `/cardorder` You can use your stampcard here.
 
-(12) `/aftercardorder`: After you make a purchase, you can check your purchase history with the stampcard applied.
+(12) `/aftercardorder` After you make a purchase, you can check your purchase history with the stampcard applied.
 
 
 ### Wallet Adapter
