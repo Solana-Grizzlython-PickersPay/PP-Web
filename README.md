@@ -27,7 +27,10 @@ For more information -> https://solana.com/grizzlython
 
 (2) cd PP-Web
 
-(3) npm install @emotion/react @emotion/style @emotion/styled
+(3) npm install 
+
+If an error occurs, try installing it additionally.
+npm install @emotion/react @emotion/style @emotion/styled
 
 (4) npm run build
 
